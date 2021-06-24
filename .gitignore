@@ -21,6 +21,9 @@ bld/
 *.obj
 obj/*
 
+src/Shop/obj
+src/Shop/bin
+
 # Visual Studio cache/options directory
 .vs/
 © 2021 GitHub, Inc.
