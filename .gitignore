@@ -5,3 +5,22 @@
 /.vs/Shop
 /.bin/
 /.obj/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+*.obj
+obj/*
+
+# Visual Studio cache/options directory
+.vs/
+© 2021 GitHub, Inc.
